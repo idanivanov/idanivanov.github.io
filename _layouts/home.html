@@ -14,14 +14,14 @@ layout: default
     <ul class="post-list">
       {% for project in site.projects %}
       <li>
-        <div>
-          <img src="{{ project.image }}" alt="{{ project.title | escape }}" width="400px" height="YYY" />
-        </div>
-        <h3>
-          <a  class="post-link" href="{{ project.url }}">
+        <a class="post-link" href="{{ project.url }}">
+          <div>
+            <img src="{{ project.image }}" alt="{{ project.title | escape }}" width="400px" height="YYY" />
+          </div>
+          <h3>
             {{ project.title | escape }}
-          </a>
-        </h3>
+          </h3>
+        </a>
         {%- if site.show_excerpts -%}
           {{ project.excerpt }}
         {%- endif -%}
