@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## Introduction
-
 Hi! It's Ivan.
 
 I help business leaders take data-driven decisions, automate processes, and improve the efficiency of their workforce using advanced analytics and machine learning.
