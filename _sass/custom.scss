@@ -5,6 +5,16 @@ Color palette:
 #7A28CB
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
 .site-title, .site-title:visited {
     color: #4DCCBD;
     font-weight: bold;

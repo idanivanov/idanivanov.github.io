@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+# Introduction
+
+Hi! It's Ivan.
+
+I help business leaders take data-driven decisions, automate processes, and improve the efficiency of their workforce using advanced analytics and machine learning.
+
+On this web site you can read about some recent projects that I have worked on.
+
+Feel free to [contact](mailto:{{ site.email }}) me if you would like to learn more.
