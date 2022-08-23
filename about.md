@@ -16,7 +16,7 @@ I have experience as a technical leader managing small teams of Data Scientists,
 I care deeply about the fair and ethical use of data and technology. As part of [Data for Good - Bulgaria](https://data-for-good.bg){:target="_blank"}, I support the Bulgarian civil sector in solving socially significant challenges using data.
 
 {:refdef: style="text-align: center;"}
-![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist.jpg){: width="300px"}
+![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_2.jpg){: width="300px"}
 {: refdef}
 
 {:refdef: style="text-align: center;"}

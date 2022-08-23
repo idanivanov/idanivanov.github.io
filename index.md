@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_1.jpg){: width="200px" style="border-radius: 50%"}
+
 Hi! It's Ivan.
 
 I help business leaders take data-driven decisions, automate processes, and improve the efficiency of their workforce using advanced analytics and machine learning.
