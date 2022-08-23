@@ -20,5 +20,5 @@ I care deeply about the fair and ethical use of data and technology. As part of 
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-[![Google Cloud Certified Professional Data Engineer](https://templates.images.credential.net/16590189412502689960209276019161.png){: width="300px"}](https://www.credential.net/fce200c0-9908-4aef-a9c8-b703074211ae){:target="_blank"}
+[![Google Cloud Certified Professional Data Engineer](https://templates.images.credential.net/16590189412502689960209276019161.png){: width="300px"}](https://www.credential.net/fce200c0-9908-4aef-a9c8-b703074211ae){: target="_blank"}
 {: refdef}

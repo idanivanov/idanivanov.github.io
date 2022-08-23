@@ -8,6 +8,15 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    <p><b>Project Summary:</b> {{ page.project_summary }}</p>
+    <p><b>Project Duration:</b> {{ page.project_duration }}</p>
+    <p><b>Team Size:</b>  {{ page.team_size }}</p>
+    <p><b>Industry:</b>  {{ page.industry }}</p>
+
+    <div style="text-align: center">
+      <img alt="{{ page.title }}" src="{{ page.image }}" width="400px" />
+    </div>
+
     {{ content }}
   </div>
 

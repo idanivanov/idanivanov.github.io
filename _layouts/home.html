@@ -22,9 +22,13 @@ layout: default
             {{ project.title | escape }}
           </h3>
         </a>
-        {%- if site.show_excerpts -%}
+        <!-- {%- if site.show_excerpts -%}
           {{ project.excerpt }}
-        {%- endif -%}
+        {%- endif -%} -->
+        <p><b>Project Summary:</b> {{ project.project_summary }}</p>
+        <p><b>Project Duration:</b> {{ project.project_duration }}</p>
+        <p><b>Team Size:</b>  {{ project.team_size }}</p>
+        <p><b>Industry:</b>  {{ project.industry }}</p>
       </li>
       {% endfor %}
     </ul>

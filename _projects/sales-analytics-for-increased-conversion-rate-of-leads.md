@@ -2,22 +2,11 @@
 layout: project
 title: "Sales Analytics for Increased Conversion Rate of Leads"
 image: "/assets/images/sales_dashboard.png"
-excerpt_separator: <!--more-->
+project_summary: "Developed a lead insights dashboard to help sales representatives work more efficiently and increase the conversion rate of their leads. The dashboard combined data from diverse data sources and provided insights by machine learning models."
+project_duration: "2 years and 2 months"
+team_size: "1 team member"
+industry: "IT"
 ---
-
-__Project Summary:__ Developed a lead insights dashboard to help sales representatives work more efficiently and increase the conversion rate of their leads. The dashboard combined data from diverse data sources and provided insights by machine learning models.
-
-__Project Duration:__ 2 years and 2 months
-
-__Team Size:__ 1 team member
-
-__Industry:__ IT
-
-<!--more-->
-
-{:refdef: style="text-align: center;"}
-![{{ page.title }}]({{ page.image }}){: width="400px"}
-{: refdef}
 
 ## Customer
 
