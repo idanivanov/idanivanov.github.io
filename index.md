@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Introduction
+## Introduction
 
 Hi! It's Ivan.
 
