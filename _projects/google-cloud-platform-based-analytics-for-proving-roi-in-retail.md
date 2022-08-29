@@ -24,11 +24,15 @@ The challenge is to prove that the AI-powered modules actually deliver that valu
 
 The developed data analytics solution is a set of Google Data Studio dashboards powered by ETL pipelines for preparing the data into an usable form.
 
-The dashboards provide a proof of the significant ROI that the AI-powered modules bring to the retailers. The proof is based on revenue and other matrics comparing the 2 sides of the A/B tests. Some of the metrics are the lift of customer lifetime value, ticket size and repeated visits on the website. The metrics are updated on a daily basis, so stakeholders can see the latest state every morning when they open the dashboards.
+The dashboards provide proof of the significant ROI that the AI-powered modules bring to the retailers. The insights are based on revenue and other matrics comparing the 2 sides of the A/B tests. Some of the metrics are the lift of customer lifetime value, ticket size and repeated visits on the website. The metrics are updated on a daily basis, so stakeholders can see the latest state every morning when they open the dashboards.
 
 ## Tools & Technologies
 
-Google Cloud Platform, Python, BigQuery, Google Data Studio, GitLab CI / CD
+- Google Cloud Platform
+- Python
+- Google BigQuery
+- Google Data Studio
+- GitLab CI / CD
 
 ## My Role & Responsibilities
 
