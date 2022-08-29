@@ -2,7 +2,7 @@
 layout: project
 title: "Google Cloud Platform Based Analytics for Proving ROI in Retail"
 image: "/assets/images/retail_dashboard.png"
-project_summary: "Consulted a US retail startup on utilizing data from A/B tests, building ETL processes and developing dashboards for proving the ROI of their products to their customers."
+project_summary: "Consulted a US retail startup on utilizing data from A/B tests, building ETL processes and developing dashboards for proving the ROI from their products to their customers."
 project_duration: "5 months"
 team_size: "1 team member"
 industry: "Retail"
