@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_1.jpg){: width="200px" style="border-radius: 50%"}
+[![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_1.jpg){: width="200px" style="border-radius: 50%"}](/about)
 
 Hi! It's Ivan.
 

@@ -1,5 +1,6 @@
 ---
 layout: project
+priority: 998
 title: "Sales Analytics for Increased Conversion Rate of Leads"
 image: "/assets/images/sales_dashboard.png"
 project_summary: "Developed a lead insights dashboard to help sales representatives work more efficiently and increase the conversion rate of their leads. The dashboard combined data from diverse data sources and provided insights by machine learning models."

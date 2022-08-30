@@ -39,6 +39,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path
+    sort_by: priority
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,5 +1,6 @@
 ---
 layout: project
+priority: 1000
 title: "Recommendation Engine for Mattress Selection"
 image: "/assets/images/mattress.png"
 project_summary: "Built a machine learning recommendation engine for helping people select their most suitable mattress. I was leading the team responsible for developing the machine learning part of the solution."

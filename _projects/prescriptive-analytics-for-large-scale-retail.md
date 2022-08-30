@@ -1,5 +1,6 @@
 ---
 layout: project
+priority: 997
 title: "Prescriptive Analytics for Large Scale Retail"
 image: "/assets/images/shopping.png"
 project_summary: "A platform for prescriptive analytics based on transaction data for large retail stores. The platform provides multiple machine learning features, such as, demand forecasting, hidden demand analysis, clustering, and anomaly detection."
