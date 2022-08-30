@@ -10,13 +10,13 @@ industry: "Retail"
 
 ## Customer
 
-Leading US retail chain for mattresses.
+Major US retail chain.
 
 ## Business Case
 
 Sleep is a very important part of everybody's life and poor sleep because of a bad mattress can lead to unnecessary worsening of a person's quality of life. However, purchasing a mattress is a difficult and unpleasant experience for most people. Usually, people don't know what they should look for in a mattress. There is no one-size-fits-all mattress and purchasers need to find the one mattress that suits them best based on their conditions, body shape, lifestyle, etc.
 
-The company has a rich assortment of mattresses, having diverse properties, such as, comfort level, support level, price, movement separation, etc. They wanted to boost the customer experience for their online and in-store customers by providing an automated solution for personalized mattress recommendation.
+The retail company has a rich assortment of mattresses, having diverse properties, such as, comfort level, support level, price, movement separation, etc. They wanted to boost the customer experience for their online and in-store customers by providing an automated solution for personalized mattress recommendation.
 
 ## Solution
 
@@ -35,7 +35,8 @@ The UI of the solution was a quiz that the clients could fill online or on table
 My role was to lead the development of the machine learning part of the solution. My responsibilities included:
 
 - Technical consultancy during the discovery phase and design thinking workshops
-- Leading of the machine learning research and development process
+- Data science team management
+- Machine learning research & development
 - Defining technical requirements and work estimations
 - Defining the cloud architecture of the ML solution
 - Data analysis

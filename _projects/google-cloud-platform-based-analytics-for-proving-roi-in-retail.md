@@ -30,7 +30,7 @@ The dashboards provide proof of the significant ROI that the AI-powered modules 
 
 - Google Cloud Platform
 - Python
-- Google BigQuery
+- Google Cloud BigQuery
 - Google Data Studio
 - GitLab CI / CD
 
