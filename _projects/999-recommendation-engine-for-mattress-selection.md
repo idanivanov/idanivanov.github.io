@@ -6,6 +6,7 @@ project_summary: "Built a machine learning recommendation engine for helping peo
 project_duration: "3 months"
 team_size: "10 team members, 2 data scientists"
 industry: "Retail"
+published: true
 ---
 
 ## Customer

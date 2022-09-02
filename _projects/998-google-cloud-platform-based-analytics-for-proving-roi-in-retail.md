@@ -6,6 +6,7 @@ project_summary: "Consulted a US retail startup on utilizing data from A/B tests
 project_duration: "5 months"
 team_size: "1 team member"
 industry: "Retail"
+published: true
 ---
 
 ## Customer

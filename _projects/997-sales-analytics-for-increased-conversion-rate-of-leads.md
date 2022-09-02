@@ -6,6 +6,7 @@ project_summary: "Developed a lead insights dashboard to help sales representati
 project_duration: "2 years and 2 months"
 team_size: "1 team member"
 industry: "IT"
+published: true
 ---
 
 ## Customer

@@ -6,6 +6,7 @@ project_summary: "A platform for prescriptive analytics based on transaction dat
 project_duration: "6 months"
 team_size: "5 team members, 2 data scientists"
 industry: "Retail"
+published: true
 ---
 
 ## Customer

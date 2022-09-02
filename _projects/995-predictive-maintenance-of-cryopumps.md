@@ -6,6 +6,7 @@ project_summary: "Machine learning system for early warning of failing industria
 project_duration: "10 months"
 team_size: "11 team members, 4 data scientists"
 industry: "Manufacturing"
+published: true
 ---
 
 ## Customer
