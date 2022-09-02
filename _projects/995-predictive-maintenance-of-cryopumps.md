@@ -1,6 +1,5 @@
 ---
 layout: project
-priority: 996
 title: "Predictive Maintenance of Cryopumps"
 image: "/assets/images/manufacturing.png"
 project_summary: "Machine learning system for early warning of failing industrial pumps helping to reduce unscheduled downtime of semiconductor manufacturing processes."

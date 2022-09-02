@@ -1,6 +1,5 @@
 ---
 layout: project
-priority: 999
 title: "Google Cloud Platform Based Analytics for Proving ROI in Retail"
 image: "/assets/images/retail_dashboard.png"
 project_summary: "Consulted a US retail startup on utilizing data from A/B tests, building ETL pipelines and developing dashboards for proving the ROI from their products to their customers."
