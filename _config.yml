@@ -42,6 +42,7 @@ collections:
 
 # Google Analytics
 google_analytics: G-G8C3VLQXR2
+google_analytics_domain: idanivanov.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.

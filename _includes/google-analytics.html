@@ -6,6 +6,7 @@
     gtag('js', new Date());
 
     gtag('config', '{{ site.google_analytics }}', {
-        cookie_flags: 'SameSite=None; Secure'
+        'cookieDomain': '{{ site.google_analytics_domain }}',
+        'cookieFlags': 'SameSite=None; Secure',
     });
 </script>
