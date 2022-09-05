@@ -5,26 +5,7 @@
 
   <body>
 
-    <!-- Cookie Consent -->
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-    <script>
-    window.cookieconsent.initialise({
-    "palette": {
-        "popup": {
-        "background": "#d4fffa",
-        "text": "#235d56"
-        },
-        "button": {
-        "background": "#4DCCBD",
-        "text": "#ffffff"
-        },
-    },
-    "content": {
-        "message": "This website uses cookies to enable essential site functionality and analytics.",
-    }
-    });
-    </script>
-    <!-- Cookie Consent End -->
+    {%- include cookie-consent.html -%}
 
     {%- include header.html -%}
 

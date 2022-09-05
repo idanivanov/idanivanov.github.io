@@ -5,12 +5,15 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
+    gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'wait_for_update': 500
+    });
+
     gtag('config', '{{ site.google_analytics }}', {
         'cookie_domain': '{{ site.google_analytics_domain }}',
         'cookie_flags': 'SameSite=None; Secure',
-        // 'anonymize_ip': true,
-        'ad_storage': 'denied',
-        'analytics_storage': 'denied'
     });
 
 </script>

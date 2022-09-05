@@ -1,0 +1,38 @@
+<!-- Cookie Consent -->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    window.cookieconsent.initialise({
+        'palette': {
+            'popup': {
+                'background': '#d4fffa',
+                'text': '#235d56'
+            },
+            'button': {
+                'background': '#4DCCBD',
+                'text': '#ffffff'
+            },
+        },
+        'type': 'opt-out',
+        'content': {
+            'message': 'This website uses cookies to enable essential site functionality and analytics.',
+        },
+        'onStatusChange': function(status, chosenBefore) {
+            if (status == 'allow') {
+                gtag('consent', 'update', {
+                    'ad_storage': 'granted',
+                    'analytics_storage': 'granted'
+                });
+
+            } else {
+                gtag('consent', 'update', {
+                    'ad_storage': 'denied',
+                    'analytics_storage': 'denied'
+                });
+            }
+        }
+    });
+</script>
+<!-- Cookie Consent End -->
