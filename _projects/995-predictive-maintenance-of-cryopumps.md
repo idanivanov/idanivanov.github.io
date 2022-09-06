@@ -21,7 +21,7 @@ Each cryopump is equipped with a set of sensors that constantly measures its sta
 
 ## Solution
 
-Our team built a software system that helps support engineers identify more easily cryopumps at risk of failing. The system uses a machine learning model that predicts if a cryopump is going to fail. The model was trained on a large set of historical data from cryopumps that have previously failed.
+Our team built a software system that helps support engineers identify more easily cryopumps at risk of failing. The system uses a machine learning model that predicts if a cryopump is going to fail. The model was trained on a large set of historical data from cryopumps that have previously failed. It is also regularly re-trained on fresh data and feedback from human domain experts using Azure ML pipelines.
 
 The solution also identifies abnormal behavior of the cryopumps using anomaly detection algorithms. Engineers can inspect the sensor measurements of the cryopump on interactive dashboards enriched with the flagged anomalous events and the risk estimation of cryopump failure.
 
