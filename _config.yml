@@ -24,13 +24,14 @@ email: idivanov.analytics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I help business leaders take data-driven decisions, automate processes, and improve the efficiency of their workforce using advanced analytics and machine learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://idanivanov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ivandanielov
 github_username:  idanivanov
 
 # Build settings
 theme: minima
-# plugins:
+plugins:
+  - jekyll-sitemap
 #   - jekyll-feed
 
 show_excerpts: true
