@@ -7,6 +7,12 @@ permalink: /about/
 {% assign current_year = site.time | date: '%Y' %}
 {% assign experience = current_year | minus: 2016 %}
 
+&nbsp;
+
+[&darr; Download CV (PDF)](/assets/CV_Ivan_Danielov_Ivanov.pdf){: class="btn" target="_blank"}
+
+&nbsp;
+
 My name is __Ivan Danielov Ivanov__ and I am a Data Scientist. I have over {{ experience }} years of industrial experience in machine learning and advanced analytics.
 
 I have delivered diverse projects in multiple industries, most notably: retail, manufacturing, education, IT, healthcare. The projects have covered use cases, such as, demand forecasting, customer analytics, predictive maintenance, recommendation engines, intelligent document processing.
