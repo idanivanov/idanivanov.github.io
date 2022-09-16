@@ -41,6 +41,10 @@ collections:
     output: true
     permalink: /:collection/:path
 
+header_pages:
+  - blog.md
+  - about.md
+
 # Google Analytics
 google_analytics: G-G8C3VLQXR2
 google_analytics_domain: idanivanov.github.io
