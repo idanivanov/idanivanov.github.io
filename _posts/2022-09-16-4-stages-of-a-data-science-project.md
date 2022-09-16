@@ -28,7 +28,7 @@ Disclaimer: The idea of this post is not to challenge your current agile methodo
 
 ## Stage 1: Conceptual Research
 
-This is the beginning of the data science workflow. It is following directly the initial discovery phase that led to forging the requirements for the project. In the general case this stage requires the following inputs:
+This is the beginning of the data science workflow. It follows directly the initial discovery phase that led to forging the requirements for the project. In the general case this stage requires the following inputs:
 
 - General project requirements
 - Access to client stakeholders (internal or external)
@@ -40,7 +40,7 @@ In the example of Dianne's predictive maintenance project this stage might inclu
 
 This stage requires a high degree of proactiveness and leadership from the data scientists. Moreover, the mentioned activities are not something universities usually teach, so fresh graduates may get overwhelmed by them. Therefore, it is a good idea to delegate the work at this stage to more experienced data scientists.
 
-It is also a good idea to provide the team with some degree of freedom. It is OK if the task updates at this stage are more vague than usual. It is an __exploration__ process. The data science activities during the conceptual research are very dynamic and require creative thinking. Asking the team to provide too detailed reports of their activities might negatively impact the exploration. Keeping the bureaucratic overhead to a necessary minimum can optimize the performance of the team at this stage.
+It is also a good idea to provide the team with some degree of freedom. It is OK if the task updates at this stage are more vague than usual. It is an __exploration__ process. The data science activities during the conceptual research are very dynamic and require creative thinking. Asking the team to provide too detailed reports of their activities might negatively impact the exploration. Keeping the bureaucratic overhead to a necessary minimum can improve the performance of the team.
 
 The duration of this stage depends on the specificity of the project requirements. If the project is, for example, about clustering of customers using survey data, this stage might even be skipped. But, in the case of Dianne's predictive maintenance project, it might take weeks. As a rule of thumb, providing the team with 2 weeks for conceptual research might be a good starting point for common data science projects.
 
@@ -67,7 +67,7 @@ The following deliverables can be expected from the technical research:
 - Working prototype of the best performing models and/or data transformations (usually provided as Python/R/SQL code in Jupyter Notebooks)
 - Documentation of the technical approach with theoretical explanations (such documentation would enable the transferability of the project)
 
-Another important outcome from this stage is a common understanding between the data science team, the greater project team, and the client stakeholders about the expected performance of the selected technical approach. The data science team should communicate this information properly, so that all parties are aligned and agree to proceed with the implementation of the solution.
+Another important outcome from this stage is a common understanding between the data science team, the greater project team, and the client stakeholders about the expected performance of the selected technical approach. For example, everybody should be on the same page about what accuracy would be expected of the predictive models once they go live and what that would mean for the business. The data science team should communicate this information properly, so that all parties are aligned and agree to proceed with the implementation of the solution.
 
 ## Stage 3: Implementation
 
@@ -85,11 +85,11 @@ This is a long running stage typical for any software product. The data science 
 
 An important phenomenon to keep in mind during the maintenance phase of machine learning products is the so-called __data drift__. A machine learning model is always designed based on some assumptions about the input data. If those assumptions change over time, the performance of the model might decrease. For example, imagine that in Dianne's project the predictive models were designed with the assumption that the air temperature in the factory is always 20&deg;C (68&deg;F). For some reason, after one year the air temperature has decreased to 15&deg;C (59&deg;F). This temperature change can cause changes in the working life of the factory equipment and the ML models would have to be redesigned.
 
-From a management perspective, the data science team at this stage is not very different from any other team of software engineers. The only difference might appear if the data science team would need to redesign the machine learning models, for example, due to data drift. In such cases, the project might have to go through the 4 stages all over again.
+From a management perspective, the data science team at this stage is not very different from any other team of software engineers. The only difference might appear, if the data science team would need to redesign the machine learning models, for example, due to data drift. In such cases, the project might have to go through the 4 stages all over again.
 
 ## Conclusion
 
-Understanding the 4 stages of a data science project can help team managers to gain the most value from their data science team. During the conceptual research the exploration process can be optimized by reducing the bureaucratic bourdain. During the technical research the iterative experimentation process should be kept in check by setting time constraints. During the implementation and maintenance stages the data science team can be managed as any other software engineering team. It is important to keep in mind the possible data drift that may occur during the maintenance stage. For big projects it is possible that multiple streams of the project go in parallel, independently from each other, through the 4 stages.
+Understanding the 4 stages of a data science project can help team managers to gain the most value from their data science team. During the conceptual research the exploration process can be optimized by reducing the bureaucratic bourdain. During the technical research the iterative experimentation process should be kept in check by setting time constraints. During the implementation and maintenance stages the data science team can be managed as any other software engineering team. It is important to keep in mind the possible data drift that may occur during the maintenance stage. For big projects it is possible that multiple streams of the project go in parallel through the 4 stages, independently from each other.
 
 ## References
 

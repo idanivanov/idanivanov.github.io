@@ -24,6 +24,11 @@ a, a:visited {
     color: #4DCCBD;
 }
 
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .btn {
     background-color: #4DCCBD;
     padding: 10px 20px 10px 20px;
