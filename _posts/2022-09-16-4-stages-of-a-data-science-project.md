@@ -4,6 +4,7 @@ title: "4 Stages of a Data Science Project and How to Manage Them"
 image: "/assets/images/4_stages_post_cover.png"
 date: 2022-09-16 14:16:00 +0300
 categories: data science project management
+summary: "Managing projects that involve machine learning and advanced analytics is challenging. The biggest challenge is the uncertainty if actual business value can be extracted from the available data. Such projects have 4 common stages associated with different levels of uncertainty: conceptual research, technical research, implementation, and maintenance."
 published: true
 ---
 
