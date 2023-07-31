@@ -21,6 +21,10 @@ I have experience as a technical leader managing small teams of Data Scientists,
 
 I care deeply about the fair and ethical use of data and technology. As part of [Data for Good - Bulgaria](https://data-for-good.bg){:target="_blank"}, I support the Bulgarian civil sector in solving socially significant challenges using data.
 
+Here are some of my public appearences:
+* [(2023-01-24) Interview on Radio Plovdiv about AI (in Bulgarian)](https://bnr.bg/plovdiv/post/101769006/koi-e-po-po-ai-otgovorite-ot-ivan-ivanov){:target="_blank"}
+* [(2023-01-21) Interview on Bloomberg Bulgaria about AI impact and ChatGPT (in Bulgarian)](https://www.bloombergtv.bg/a/28-update/114589-predstoyat-vse-po-golemi-promeni-v-branshovete-zaradi-izkustveniya-intelekt){:target="_blank"}
+
 {:refdef: style="text-align: center;"}
 ![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_2.jpg){: width="300px"}
 {: refdef}
