@@ -16,11 +16,12 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <h3>
             {{ post.title | escape }}
-          </a>
-        </h3>
+          </h3>
+          <p style="font-size: 12pt;">(Click to read more)</p>
+        </a>
         {%- if site.show_excerpts -%}
           <p>{{ post.summary | default: post.excerpt }}</p>
         {%- endif -%}
