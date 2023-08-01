@@ -44,3 +44,7 @@ I was a single data science consultant working directly with the CEO of the star
 - Development and deployment of ETL pipelines
 - Building interactive dashboards
 - Training client’s employees
+
+## Results
+
+The data analytics solution is used by the startup leadership to measure the ROI of their products and to prove it to their customers. This improves the trust and retention rate of the customers.

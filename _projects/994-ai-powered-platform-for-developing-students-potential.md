@@ -53,3 +53,7 @@ I was technical lead of the data science team working on the machine learning pa
 - Development and deployment of data processing pipelines
 - Machine learning research & development
 - Productionalization of the machine learning solution
+
+## Results
+
+The platform was launched in production and is currently used by 40,000 students in the USA. The platform is helping students to discover and unleash their potential. The platform is also helping teachers to better understand their students and provide them with more personalized guidance.

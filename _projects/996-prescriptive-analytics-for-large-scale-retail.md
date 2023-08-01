@@ -48,3 +48,7 @@ I was the technical lead of the data science team responsible for:
 - Data analysis
 - Rapid prototyping of ML features
 - Machine learning research & development
+
+## Results
+
+The machine learning features were successfully implemented and integrated into the platform. The platform is currently used by multiple large scale retail customers.

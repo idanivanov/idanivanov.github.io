@@ -44,3 +44,7 @@ I was technical lead of the data science team working on the machine learning pa
 - Definition of the cloud architecture of the ML solution
 - Data analysis
 - Productionalization of the machine learning solution
+
+## Results
+
+The machine learning solution improved the work efficiency of the support engineers and helped to reduce unscheduled downtime of the semiconductor manufacturing processes in the production fabs.

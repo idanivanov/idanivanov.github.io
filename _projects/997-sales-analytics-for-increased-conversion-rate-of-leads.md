@@ -51,3 +51,7 @@ I was the single developer and analyst for this project, being supported by my m
 - Building scalable infrastructure for providing live predictions to users
 - Integration of the developed predictive solutions into internal business processes
 - Maintenance and continuous improvement of the prediction models and infrastructure
+
+## Results
+
+The lead insights dashboard and the lead score were integrated into the sales reps' daily workflow. The dashboard helped the sales reps to work more efficiently and increase the conversion rate of their leads.
