@@ -13,7 +13,7 @@ permalink: /about/
 
 &nbsp;
 
-My name is __Ivan Danielov Ivanov__ and I am a Data Scientist. I have over {{ experience }} years of industrial experience in machine learning and advanced analytics.
+My name is __Ivan Danielov Ivanov__. I have over {{ experience }} years of industrial experience in data science, machine learning, and AI.
 
 I have delivered diverse projects in multiple industries, most notably: retail, manufacturing, education, IT, healthcare. The projects have covered use cases, such as, demand forecasting, customer analytics, predictive maintenance, recommendation engines, intelligent document processing.
 
@@ -21,7 +21,11 @@ I have experience as a technical leader managing small teams of Data Scientists,
 
 I care deeply about the fair and ethical use of data and technology. As part of [Data for Good - Bulgaria](https://data-for-good.bg){:target="_blank"}, I support the Bulgarian civil sector in solving socially significant challenges using data.
 
-Here are some of my public appearences:
+Here are some of my public appearances:
+* [(2024-02-05) Interview on Darik Radio about AI (in Bulgarian)](https://darik.bg/v-novi-horizonti-s-lili-gostuvaha-ivan-ivanov-i-lari-biil){:target="_blank"}
+* [(2024-01-30) Ratio.BG: Fairytale - The 10 Heroes and the Evil LLaMA 2 (in Bulgarian)](https://www.youtube.com/watch?v=Zk5coQzP8VA){:target="_blank"}
+* [(2023-11-29) Ratio.BG: Talk about AI and authorship (in Bulgarian)](https://www.youtube.com/watch?v=r6ElfXCF2Xo){:target="_blank"}
+* [(2023-01-26) Ratio.BG: Panel discussion on AI (in Bulgarian)](https://www.youtube.com/watch?v=FrN6iLA5wU4){:target="_blank"}
 * [(2023-01-24) Interview on Radio Plovdiv about AI (in Bulgarian)](https://bnr.bg/plovdiv/post/101769006/koi-e-po-po-ai-otgovorite-ot-ivan-ivanov){:target="_blank"}
 * [(2023-01-21) Interview on Bloomberg Bulgaria about AI impact and ChatGPT (in Bulgarian)](https://www.bloombergtv.bg/a/28-update/114589-predstoyat-vse-po-golemi-promeni-v-branshovete-zaradi-izkustveniya-intelekt){:target="_blank"}
 

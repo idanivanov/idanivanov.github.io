@@ -7,13 +7,11 @@ layout: home
 
 [![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_1.jpg){: width="200px" style="border-radius: 50%"}](/about)
 
-Hi! It's Ivan.
+Welcome to my internet space. Here I share my projects and ideas.
 
-I help business leaders take data-driven decisions, automate processes, and improve the efficiency of their workforce using advanced analytics and machine learning.
+**My System Prompt:**
 
-On this web site you can read about some recent projects that I have worked on.
-
-Feel free to [contact](mailto:{{ site.email }}) me if you would like to learn more.
+Human, experienced in data science, machine learning, and AI. Skilled in driving product development with agency in high-uncertainty environments.
 
 &nbsp;
 
