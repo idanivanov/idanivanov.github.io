@@ -13,7 +13,7 @@ permalink: /about/
 
 &nbsp;
 
-My name is __Ivan Danielov Ivanov__. I have over {{ experience }} years of industrial experience in data science, machine learning, and AI.
+My name is Ivan Danielov Ivanov. I have over {{ experience }} years of industrial experience in data science, machine learning, and AI.
 
 I have delivered diverse projects in multiple industries, most notably: retail, manufacturing, education, IT, healthcare. The projects have covered use cases, such as, demand forecasting, customer analytics, predictive maintenance, recommendation engines, intelligent document processing.
 
