@@ -5,34 +5,66 @@ Color palette:
 #B2CC42
 */
 
+// ------------------------------------
+// Color Palette & Variables
+// ------------------------------------
+$background-color: #121212;
+$text-color: #e0e0e0;
+$heading-color: #ffffff;
+$primary-color: #4DCCBD;
+$link-color: #66e8d8;
+
+// Font
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-* {
+// ------------------------------------
+// Base Styles
+// ------------------------------------
+html, body {
+    background-color: $background-color;
+    color: $text-color;
     font-family: 'Montserrat', sans-serif;
 }
 
+// ------------------------------------
+// Text Styles
+// ------------------------------------
 h1, h2, h3 {
     font-weight: bold;
+    color: $heading-color;
 }
 
+// Keep site title consistent with primary color
 .site-title, .site-title:visited {
-    color: #4DCCBD;
+    color: $primary-color;
     font-weight: bold;
 }
 
+// All links default to either primary or link color
 a, a:visited {
-    color: #4DCCBD;
+    color: $link-color;
+    text-decoration: none;
 }
 
+a:hover {
+    color: lighten($link-color, 10%);
+    text-decoration: underline;
+}
+
+// Text paragraphs
 p {
     text-align: justify;
     text-justify: inter-word;
+    color: $text-color;
 }
 
+// ------------------------------------
+// Buttons
+// ------------------------------------
 .btn {
-    background-color: #4DCCBD;
+    background-color: $primary-color;
     padding: 10px 20px 10px 20px;
-    color: white !important;
+    color: $heading-color !important;
     text-decoration: none;
     font-weight: bold;
     border-radius: 10px;
@@ -40,17 +72,71 @@ p {
     transition-timing-function: ease;
 }
 
-.btn:active {
-    background-color: #309c8f;
-    text-decoration: none;
-}
-
-.btn:hover {
-    background-color: #66e8d8;
-    text-decoration: none;
-}
-
+.btn:hover,
 .btn:focus {
-    background-color: #4DCCBD;
+    background-color: lighten($primary-color, 10%);
+    outline: none;
     text-decoration: none;
+}
+
+.btn:active {
+    background-color: darken($primary-color, 10%);
+    text-decoration: none;
+}
+
+// ------------------------------------
+// Header & Navigation Styles
+// ------------------------------------
+.site-header {
+    border-bottom: none;
+}
+
+.site-nav {
+    background-color: $background-color;
+
+    .page-link {
+        color: $text-color;
+        
+        &:hover {
+            color: $primary-color;
+            text-decoration: none;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .menu-icon {
+            > svg path {
+                fill: $text-color;
+            }
+            &:hover > svg path {
+                fill: $primary-color;
+            }
+        }
+
+        .trigger {
+            clear: both;
+            display: none;
+            background-color: $background-color;
+            border-radius: 5px;
+            padding: 5px 10px;
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+            margin-left: 0;
+        }
+    }
+}
+
+// ------------------------------------
+// Footer Styles
+// ------------------------------------
+.site-footer {
+    border-top: none;
 }
