@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "4 Stages of a Data Science Project and How to Manage Them"
+author: "Ivan Danielov Ivanov"
 image: "/assets/images/4_stages_post_cover.png"
 date: 2022-09-16 14:16:00 +0300
 categories: data science project management

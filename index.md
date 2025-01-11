@@ -11,7 +11,7 @@ Welcome to my internet space. Here I share my projects and ideas.
 
 **My System Prompt:**
 
-Human, experienced in data science, machine learning, and AI. Skilled in driving product development with agency in high-uncertainty environments.
+Human, experienced in data science, machine learning, and AI. Skilled in leading product development with agency in high-uncertainty environments.
 
 &nbsp;
 
