@@ -23,7 +23,7 @@ I care deeply about the fair and ethical use of data and technology. As part of 
 
 Here are some of my public appearances:
 * [(2024-02-05) Interview on Darik Radio about AI (in Bulgarian)](https://darik.bg/v-novi-horizonti-s-lili-gostuvaha-ivan-ivanov-i-lari-biil){:target="_blank"}
-* [(2024-01-30) Ratio.BG: Fairytale - The 10 Heroes and the Evil LLaMA 2 (in Bulgarian)](https://www.youtube.com/watch?v=Zk5coQzP8VA){:target="_blank"}
+* [(2024-01-30) Ratio.BG: Fairytale - The 10 Heroes and the Evil LLaMA 2 (in Bulgarian).](https://youtu.be/Uxmu0bJJJTM){:target="_blank"} [Full Event Recording.](https://www.youtube.com/watch?v=Zk5coQzP8VA){:target="_blank"}
 * [(2023-11-29) Ratio.BG: Talk about AI and authorship (in Bulgarian)](https://www.youtube.com/watch?v=r6ElfXCF2Xo){:target="_blank"}
 * [(2023-01-26) Ratio.BG: Panel discussion on AI (in Bulgarian)](https://www.youtube.com/watch?v=FrN6iLA5wU4){:target="_blank"}
 * [(2023-01-24) Interview on Radio Plovdiv about AI (in Bulgarian)](https://bnr.bg/plovdiv/post/101769006/koi-e-po-po-ai-otgovorite-ot-ivan-ivanov){:target="_blank"}
