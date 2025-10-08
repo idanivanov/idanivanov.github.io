@@ -22,6 +22,7 @@ I have experience as a technical leader managing small teams of Data Scientists,
 I care deeply about the fair and ethical use of data and technology. As part of [Data for Good - Bulgaria](https://data-for-good.bg){:target="_blank"}, I support the Bulgarian civil sector in solving socially significant challenges using data.
 
 Here are some of my public appearances:
+* [[2025-10-08] Interview on bTV Business News about Labsi and AI in healthcare (in Bulgarian)](https://businessnovinite.bg/korporativni-istorii/izkustvenijat-intelekt-i-grizhata-za-zdraveto-balgarsko-ai-prilozhenie-analizira-medicinski-izsledvanija.html)
 * [(2025-07-20) Interview on Bloomberg Bulgaria about Labsi and AI in healthcare (in Bulgarian)](https://www.bloombergtv.bg/a/28-update/147608-ai-sas-sigurnost-ima-potentsial-da-promeni-iz-osnovi-zdraveopazvaneto){:target="_blank"}
 * [(2024-02-05) Interview on Darik Radio about AI (in Bulgarian)](https://darik.bg/v-novi-horizonti-s-lili-gostuvaha-ivan-ivanov-i-lari-biil){:target="_blank"}
 * [(2024-01-30) Ratio.BG: Fairytale - The 10 Heroes and the Evil LLaMA 2 (in Bulgarian).](https://youtu.be/Uxmu0bJJJTM){:target="_blank"} [Full Event Recording.](https://www.youtube.com/watch?v=Zk5coQzP8VA){:target="_blank"}
