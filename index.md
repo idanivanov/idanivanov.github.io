@@ -13,6 +13,10 @@ Welcome to my internet space. Here I share my projects and ideas.
 
 Human, experienced in data science, machine learning, and AI. Skilled in leading product development with agency in high-uncertainty environments.
 
+**Latest Update:**
+
+Currently working on security for AI agents. See more at [stihia.ai](https://stihia.ai){:target="_blank"}.
+
 &nbsp;
 
 [&darr; Download CV (PDF)](/assets/CV_Ivan_Danielov_Ivanov.pdf){: class="btn" target="_blank"}
