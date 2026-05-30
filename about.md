@@ -39,7 +39,3 @@ Here are some of my public appearances:
 {:refdef: style="text-align: center;"}
 ![{{ site.title }}](/assets/images/ivan_danielov_ivanov_data_scientist_2.jpg){: width="300px"}
 {: refdef}
-
-{:refdef: style="text-align: center;"}
-[![Google Cloud Certified Professional Data Engineer](https://templates.images.credential.net/16590189412502689960209276019161.png){: width="300px"}](https://www.credential.net/fce200c0-9908-4aef-a9c8-b703074211ae){: target="_blank"}
-{: refdef}
