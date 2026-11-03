@@ -24,7 +24,7 @@ I have experience as a technical leader managing small teams of Data Scientists,
 I care deeply about the fair and ethical use of data and technology. As part of [Data for Good - Bulgaria](https://data-for-good.bg){:target="_blank"}, I support the Bulgarian civil sector in solving socially significant challenges using data.
 
 Here are some of my public appearances:
-* [(2026-10-11) Interview on Bloomberg TV Bulgaria about Stihia.ai and AI security? (in Bulgarian)](https://www.bloombergtv.bg/a/28-update/165313-gotovi-li-sa-kompaniite-za-realnata-tsena-na-ai-sigurnostta){:target="_blank"}
+* [(2026-10-11) Interview on Bloomberg TV Bulgaria about Stihia.ai and AI security (in Bulgarian)](https://www.bloombergtv.bg/a/28-update/165313-gotovi-li-sa-kompaniite-za-realnata-tsena-na-ai-sigurnostta){:target="_blank"}
 * [(2026-09-10) Hack the Agent, CLIB 2026 Tutorial (in English)](https://www.youtube.com/watch?v=pOLHd6FHxz4){:target="_blank"}
 * [(2026-05-22) AI Security and Sovereignty: The New Cyber Threats, Agent001 Podcast (in Bulgarian)](https://www.youtube.com/watch?v=utSEFzAcdZI){:target="_blank"}
 * [(2026-01-15) Hack the Agent, SoftUni AI Seminar (in Bulgarian)](https://www.youtube.com/watch?v=_mFIc7oTTdk){:target="_blank"}
