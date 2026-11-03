@@ -19,10 +19,6 @@ Currently working on security for AI agents. See more at [stihia.ai](https://sti
 
 &nbsp;
 
-[&darr; Download CV (PDF)](/assets/CV_Ivan_Danielov_Ivanov.pdf){: class="btn" target="_blank"}
-
-&nbsp;
-
 [&darr; Download Bachelor Thesis (PDF)](/assets/Ivan_Ivanov_Thesis_Bachelor.pdf){: class="btn" target="_blank"}
 
 &nbsp;
